@@ -37,7 +37,7 @@ const numbOfNumbers = fiveNumbers.length;
 const sum = 60;
 const average = sum / numbOfNumbers;
 
-console.log(average);
+console.log(`The average arithmetic of these numbers is ${average}`);
 
 
 
